@@ -1,1 +1,1 @@
-Some sample content
+Some sample contents
